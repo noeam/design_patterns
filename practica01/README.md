@@ -1,5 +1,4 @@
-*Objetivo:* El objetivo de esta práctica es implementar adecuadamente los patrones
-*Strategy y Observer* en la resolución del problema propuesto.
+# *Objetivo:* El objetivo de esta práctica es implementar adecuadamente los patrones *Strategy y Observer* en la resolución del problema propuesto.
 
 1. Menciona los principios de diseño esenciales de los patrones Observer y Strategy. Menciona una desventaja de cada patrón.
 
